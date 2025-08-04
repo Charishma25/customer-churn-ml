@@ -3,8 +3,6 @@ This project focuses on predicting customer churn for a telecommunications compa
 
 Kaggle Link : https://www.kaggle.com/code/sahilnbajaj/telecom-customer-churn-prediction
 
-Tableau Link : https://public.tableau.com/app/profile/sahil.bajaj5153/viz/TelecomCustomerChurnAnalysisDashboard_17251839663140/Dashboard1
-
 The project is divided into several stages:
 
 Data Preprocessing:
